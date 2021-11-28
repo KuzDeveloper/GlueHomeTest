@@ -1,6 +1,6 @@
 # Comments, 28th Nov. 2021
 
-The application has most of the requirements implemented, but the implementation is not 100% as I did not feel everything is necessary. I am adding comments on each projects
+The application has most of the requirements implemented, but the implementation is not 100% as I did not feel everything was necessary. I added comments on each projects
 to explain why I made certain choices and what is missing or was not important to implement. The code itself does not have any comments added, except the Authorize attribute
 and the authentication setup in the StartUp.cs file to explain what should be done there.
 
